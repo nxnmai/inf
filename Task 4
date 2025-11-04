@@ -159,8 +159,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlUHN_FusTeP5RLnx74f-20" value="&lt;div&gt;DriverID&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="403" y="321" width="40" height="30" as="geometry" />
+        <mxCell id="ZlUHN_FusTeP5RLnx74f-20" value="&lt;div&gt;&lt;i&gt;&lt;u&gt;DriverID&lt;/u&gt; (FK)&lt;/i&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="403" y="321" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlUHN_FusTeP5RLnx74f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +171,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlUHN_FusTeP5RLnx74f-22" value="&lt;div&gt;DriverName&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="ZlUHN_FusTeP5RLnx74f-22" value="&lt;i&gt;&lt;u&gt;JobID&lt;/u&gt; (FK)&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="433" y="342" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlUHN_FusTeP5RLnx74f-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=circle;endFill=0;" edge="1" parent="1">
@@ -194,11 +194,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlUHN_FusTeP5RLnx74f-25" value="Address" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="464" y="362" width="40" height="30" as="geometry" />
+        <mxCell id="ZlUHN_FusTeP5RLnx74f-25" value="&lt;u&gt;DateDone&lt;/u&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="464" y="361" width="56" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZlUHN_FusTeP5RLnx74f-26" value="MobileNo" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="493" y="381" width="47" height="30" as="geometry" />
+        <mxCell id="ZlUHN_FusTeP5RLnx74f-26" value="Fee" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="494" y="381" width="17" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
